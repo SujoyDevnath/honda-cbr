@@ -1,3 +1,9 @@
+/* -------------------
+   CSS code for all 
+-----------------------*/
+
+
+/* fetured section start */
 .gray-img {
     filter: grayscale(100%);
 }
@@ -5,3 +11,10 @@
     width: 288px;
     height: 243px;
 }
+
+/* happy clients section start */
+/* 
+.img-2 {
+    width: 323px;
+    height: 478.01px;
+} */
