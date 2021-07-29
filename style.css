@@ -34,3 +34,14 @@ h1 {
     background-size: cover;
     height: 60vh;
 }
+
+/* media query styles-------------------- */
+
+@media only screen and (max-width:700px) {
+    .bike-repaire {
+        background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("images/bike-repair-small.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 60vh;
+    }
+}
