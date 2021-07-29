@@ -1,7 +1,16 @@
 /* -------------------
    CSS code for all 
 -----------------------*/
-
+.background-color {
+    background-color: #E76F51;
+    color: white;
+}
+.color {
+    color: #E76F51;
+}
+h1 {
+    font-weight: bold;
+}
 
 /* fetured section start */
 .gray-img {
@@ -13,6 +22,11 @@
 }
 
 /* happy clients section start */
+
+.fas, .far {
+    color: #E76F51;
+}
+
 /* 
 .img-2 {
     width: 323px;
